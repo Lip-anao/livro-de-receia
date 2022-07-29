@@ -1,4 +1,4 @@
-#receita de bolo
+# receita de bolo
  -     2 xícaras (chá) de açúcar
 
 -    3 xícaras (chá) de farinha de trigo
